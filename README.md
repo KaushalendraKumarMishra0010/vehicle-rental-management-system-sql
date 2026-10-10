@@ -55,7 +55,7 @@ To run this project locally, follow these steps:
 
 1. Clone the repository to your local system:
 ```bash
-git clone <YOUR_GITHUB_REPOSITORY_LINK>
+git clone https://github.com/KaushalendraKumarMishra0010/vehicle-rental-management-system-sql.git
 ```
 
 2. Open your preferred SQL Editor (e.g., MySQL Workbench, DBeaver, or command line).
